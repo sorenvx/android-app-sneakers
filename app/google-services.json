@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "856692507054",
+    "firebase_url": "https://nukev1java.firebaseio.com",
+    "project_id": "nukev1java",
+    "storage_bucket": "nukev1java.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856692507054:android:275e6829119cb60988c83f",
+        "android_client_info": {
+          "package_name": "com.example.nukev1java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856692507054-8rkids562p3m7csf85fhgq8q5dv9hv5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nukev1java",
+            "certificate_hash": "b6225c6d4ba4f9ae375e57b6002c807467f3ef40"
+          }
+        },
+        {
+          "client_id": "856692507054-nj6mrfvu4lg7gfkqvt27qp7l3nf7sr4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJa0FBHWQJaPV6W1Wwcc83ceKM0zENibQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856692507054-nj6mrfvu4lg7gfkqvt27qp7l3nf7sr4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
